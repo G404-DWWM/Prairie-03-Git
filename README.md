@@ -7,7 +7,7 @@
 Avant toutes choses, vous trouverez le cour de base sur Git ici :[ Gérez votre code avec GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github)
 
 
-# Lisez le en entier, prenez des notes et notez vos questions, le versioning est une notion importante dans le travail d’un développeur, il est important de connaître ses bases.
+Lisez le en entier, prenez des notes et notez vos questions, le versioning est une notion importante dans le travail d’un développeur, il est important de connaître ses bases.
 
 
 # Exercices
