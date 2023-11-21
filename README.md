@@ -14,7 +14,7 @@ Lisez le en entier, prenez des notes et notez vos questions, le versioning est u
 
 Avant d'attaquer par le TP du jour entrainons nous et essayons de comprendre git. 
 
-Pour cela je vous propose de vous entrainez à l'aide de ce premier tutoriel Github : 
+Pour cela je vous propose de vous entrainez à l'aide de ce premier tutoriel Github (en anglais évidement, il va falloir vous y faire) : 
 [Skill Github](https://skills.github.com/)
 
 ``` Objectif  ```
