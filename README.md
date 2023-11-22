@@ -1,6 +1,8 @@
 # TP Introduction GIT 
 
-# Résumé
+# Présentation 
+
+[Git et Github, qu'est ce que c'est ?](https://docs.google.com/presentation/d/1iyX-bjT6s8PvAjcw9A1-7Dni2vq-HFRf/edit?usp=sharing&ouid=108606259577155009332&rtpof=true&sd=true)
 
 Avant toutes choses, vous trouverez le cour de base sur Git ici :[ Gérez votre code avec GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github)
 
